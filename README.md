@@ -2,6 +2,7 @@
 ## Lviv Travel
 A platform for tourists looking for a quick solution for tourism. Placed points of interest and events poster.
 Development of the interface part.
+
 Technologies:
 - HTML
 - CSS 
